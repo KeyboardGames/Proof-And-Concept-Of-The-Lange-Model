@@ -30,7 +30,7 @@
 
 This definition given by Wikipedia is a pretty good summary of what the Lange Model is, although I'd like to add that profits made under this system are divided socially.
 
-Definetly read the Wikipedia before advancing, and if you want more information then read "On the Economic Theory of Socialism" by Oskar Lange.
+Definetly read the Wikipedia on the Lange Model before advancing, and if you want more information then read "On the Economic Theory of Socialism" by Oskar Lange.
 
 ## Context
 A problem of this model is the need to calculate gigantic quanitities of calculations, ableit simple calculations. This problem was argued at the time 
@@ -69,7 +69,9 @@ No monetary exchanges for items could happen when trading with other countries, 
 
 ## How The Code Works
 The main problem against the Lange model was the non-automated trial-and-error price adjustments, so my code just simply automates those price adjustments 
-needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day. This code was tested on a system running Debian 11.
+needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day, and then using fuzzy 
+logic to determine if the price should increase, decrease, or stay if at an equilibrium (sort-of a fuzzy-logic dynamic pricing system). This code was 
+tested on a system running Debian 11.
 
 ### The Two-Day System
 The Two-Day System is basically a system that changes the price of an item every two-days until economic equilibrium is achieved.
