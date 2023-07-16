@@ -28,7 +28,7 @@
 > under perfect competition. Unlike models of capitalism, the Lange model is based on direct allocation, by directing enterprise managers to set price
 > equal to marginal cost in order to achieve Pareto efficiency." —[Wikipedia, Lange Model](https://en.wikipedia.org/wiki/Lange_model)
 
-This definition given by Wikipedia is a pretty good summary of what the Lange Model is, although I'd like to add that profits made under this system are divided socially. I will also refer to the 
+This definition given by Wikipedia is a pretty good summary of what the Lange Model is, although I'd like to add that profits made under this system are divided socially.
 
 Definetly read the Wikipedia before advancing, and if you want more information then read "On the Economic Theory of Socialism" by Oskar Lange.
 
@@ -45,7 +45,7 @@ To expand upon the idea of using computers as tools for the economy, I looked at
 Cybersyn". Now, I believe that Project Cybersyn wouldn't have worked as apparently it was supposed to run a full-simulation of the Chilean economy and also 
 it was the 70's in Chile. One thing I do like though about this project was how the economy would still be planned and not fully automated as there was 
 still human input, as in human monitoring. To not have the economy be fully-automated and to not have the use of "economic-automation" be painfully slow, 
-we could use human monitoring of prices, suggested by the computers, to have the economy still be planned, and at least maintained by humans. Once, a review reading and possible changes to price-changes or price-info is concluded, prices are changed by the government and not the computers.
+we could use human monitoring of prices, suggested by the computers, to have the economy still be planned, and at least maintained by humans. Once, a review reading and possible changes to price-changes or price-info is concluded, prices are changed by the Central Planning Board and not the computers.
 
 ### Supply
 For this model to work, technology for tracking supply available would be needed. The supply tracked wouldn't have to be so specific, but the less 
@@ -97,7 +97,7 @@ always the controlling the informal economy and making it as small as possible a
 ## THIS IS A PROOF OF CONCEPT
 This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very 
 simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a 
-summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed an monitored. I would just like to stress 
+summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed and monitored. I would just like to stress 
 again, this is a proof of concept that the model could work.
 
 ### NOT YET COMPLETED
