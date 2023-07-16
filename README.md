@@ -68,7 +68,7 @@ No monetary exchanges for items could happen when trading with other countries, 
 
 ## How The Code Works
 The main problem against the Lange model was the non-automated trial-and-error price adjustments, so my code just simply automates those price adjustments 
-needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day.
+needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day. This code was tested on a system running Debian 11.
 
 ### The Two-Day System
 The Two-Day System is basically a system that changes the price of an item every two-days until economic equilibrium is achieved.
@@ -96,4 +96,5 @@ always the controlling the informal economy and making it as small as possible a
 ## THIS IS A PROOF OF CONCEPT
 This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed an monitored. I would just like to stress again, this is a proof of concept that the model could work.
 
-**NOT YET COMPLETED**
+###NOT YET COMPLETED
+I would like to add the use of .csv files instead of the use of .txt files for obvious reasons. Also would like to change the code from C++ to R (the economists prefered programming language).
