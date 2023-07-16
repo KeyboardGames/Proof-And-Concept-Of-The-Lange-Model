@@ -18,6 +18,7 @@
     + [Data File](#data-file)
   * [Criticisms](#criticisms)
   * [THIS IS A PROOF OF CONCEPT](#this-is-a-proof-of-concept)
+    + [NOT YET COMPLETED](#not-yet-completed)
 
 ## What Is The Lange Model?
 > "The Lange model (or Lange–Lerner theorem) is a neoclassical economic model for a hypothetical socialist economy based on public ownership of the means of
@@ -94,7 +95,11 @@ informal economies under socialism, a good movement for the people to be on-boar
 always the controlling the informal economy and making it as small as possible as there will always be an informal economy. The vague argument of this model still being unrealistic could also be said, I guess.
 
 ## THIS IS A PROOF OF CONCEPT
-This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed an monitored. I would just like to stress again, this is a proof of concept that the model could work.
+This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very 
+simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a 
+summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed an monitored. I would just like to stress 
+again, this is a proof of concept that the model could work.
 
-###NOT YET COMPLETED
-I would like to add the use of .csv files instead of the use of .txt files for obvious reasons. Also would like to change the code from C++ to R (the economists prefered programming language).
+### NOT YET COMPLETED
+I would like to add the use of .csv files instead of the use of .txt files for obvious reasons. Also would like to change the code from C++ to R (the e
+conomists prefered programming language).
