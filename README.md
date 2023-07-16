@@ -82,7 +82,6 @@ How Data Should Be Retrieved:
 
 ### Data File
 The data file is the input file for the code with an item's market data. The file format, SO FAR, for this data is a .txt.
-Parameters of the File:
 
 ## Criticisms
 Major Criticisms against this system would be the efficiency of collecting data and using it within this system. For example, this system uses the Two-Day 
