@@ -28,7 +28,7 @@ To expand upon the idea of using computers as tools for the economy, I looked at
 Cybersyn". Now, I believe that Project Cybersyn wouldn't have worked as apparently it was supposed to run a full-simulation of the Chilean economy and also 
 it was the 70's in Chile. One thing I do like though about this project was how the economy would still be planned and not fully automated as there was 
 still human input, as in human monitoring. To not have the economy be fully-automated and to not have the use of "economic-automation" be painfully slow, 
-we could use human monitoring of prices, suggested by the computers, to have the economy still be planned, and at least maintained by humans.
+we could use human monitoring of prices, suggested by the computers, to have the economy still be planned, and at least maintained by humans. Once, a review and possible changes to price-changes or price-info is concluded, prices are changed by the government and not the computers.
 
 ### Supply
 For this model to work, technology for tracking supply available would be needed. The supply tracked wouldn't have to be so specific, but the less 
@@ -51,7 +51,33 @@ Taxes would be needed and/or a percentage of the social dividend to be taken.
 No monetary exchanges for items could happen when trading with other countries, so trading would be very traditionalistic.
 
 ## How The Code Works
+The main problem against the Lange model was the non-automated trial-and-error price adjustments, so my code just simply automates those price adjustments 
+needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day.
 
+### The Two-Day System
+The Two-Day System is basically a system that changes the price of an item every two-days until economic equilibrium is achieved.
+How Data Should Be Retrieved:
+1. Get only the very first day's supply early
+2. Get everydays' price early
+3. Get everydays' (except the very first day's) supply later
+
+### Data File
+The data file is the input file with an item in the market's data. The file format, SO FAR, for this data is a .txt.
+Parameters of the File:
+[Yesterday's Number] (a day's number is the day the data was collected, days start from 1 to integer limit; example: 1, 2, 3, 4, 5, etc, are all possible day numbers)
+[Supply],[Marginal Cost],[Price]
+[Today's Number]
+[Supply],[Marginal Cost],[Price]
 
 ## Criticisms
-Major Criticisms against
+Major Criticisms against this system would be the efficiency of collecting data and using it within this system. For example, this system uses the Two-Day 
+System which, even with today's technology, is still a very short amount of time to get data to then change prices from. Although, the good news is that 
+this model doesn't have to use the Two-Day system, and can use any day system it wants as this is all just a proof of concept. A criticism left by 
+economist Milton Friendman was the silly argument about how law-enforcement would have to shut down private start-ups. While yes this often does happen in 
+informal economies under socialism, a good movement for the people to be on-board against this idea of ruining the economy could be had, and also there's 
+always the controlling the informal economy and making it as small as possible as there will always be an informal economy. The vague argument of this model still being unrealistic could also be said, I guess.
+
+## THIS IS A PROOF OF CONCEPT
+This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a summary of important price changes and price info into a pdf file to be viewed an monitored. I would just like to stress again, this is a proof of concept that the model could work.
+
+**NOT YET COMPLETED**
