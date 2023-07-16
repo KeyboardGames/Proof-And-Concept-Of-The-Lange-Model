@@ -83,7 +83,8 @@ How Data Should Be Retrieved:
 ### Data File
 The data file is the input file for the code with an item's market data. The file format, SO FAR, for this data is a .txt.
 Parameters of the File:
-Yesterday's Number
+
+Yesterday's Number -> a day's number is the day the data was collected, days start from 1 to integer limit; example: 1, 2, 3, 4, 5, etc, are all possible day numbers
 Supply,Marginal Cost,Price
 Today's Number
 Supply,Marginal Cost,Price
