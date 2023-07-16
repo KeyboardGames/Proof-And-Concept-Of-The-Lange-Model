@@ -3,6 +3,12 @@
 
 [![](assets/Oskar_Lange_20-65.jpg)](https://en.wikipedia.org/wiki/Oskar_R._Lange "Oskar Lange")
 
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
 ## What Is The Lange Model?
 > "The Lange model (or Lange–Lerner theorem) is a neoclassical economic model for a hypothetical socialist economy based on public ownership of the means of
 > production and a trial-and-error approach to determining output targets and achieving economic equilibrium and Pareto efficiency. In this model, the state
