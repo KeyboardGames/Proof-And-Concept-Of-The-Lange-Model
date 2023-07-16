@@ -81,7 +81,7 @@ How Data Should Be Retrieved:
 3. Get everydays' (except the very first day's) supply later
 
 ### Data File
-The data file is the input file for the code with an item's market data. The file format, SO FAR, for this data is a .txt.
+The data file is the input file for the code with an item's market data. The file formats for this data are .csv and .txt.
 
 ## Criticisms
 Major Criticisms against this system would be the efficiency of collecting data and using it within this system. For example, this system uses the Two-Day 
@@ -98,5 +98,5 @@ summary of important price changes, price info, marginal costs, and supply data 
 again, this is a proof of concept that the model could work.
 
 ### NOT YET COMPLETED
-I would like to add the use of .csv files instead of the use of .txt files for obvious reasons. Also would like to change the code from C++ to R (the e
-conomists prefered programming language).
+I would like to change the code from C++ to R (the e
+conomists preferred programming language).
