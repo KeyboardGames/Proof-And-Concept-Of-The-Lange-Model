@@ -11,7 +11,9 @@
 > under perfect competition. Unlike models of capitalism, the Lange model is based on direct allocation, by directing enterprise managers to set price
 > equal to marginal cost in order to achieve Pareto efficiency." —[Wikipedia, Lange Model](https://en.wikipedia.org/wiki/Lange_model)
 
-This definition given by Wikipedia is a pretty good summary of what the Lange Model is, although I'd like to add that profits made under this system are divided socially. 
+This definition given by Wikipedia is a pretty good summary of what the Lange Model is, although I'd like to add that profits made under this system are divided socially. I will also refer to the 
+
+Definetly read the Wikipedia before advancing, and if you want more information then read "On the Economic Theory of Socialism" by Oskar Lange.
 
 ## Context
 A problem of this model is the need to calculate gigantic quanitities of calculations, ableit simple calculations. This problem was argued at the time 
@@ -39,8 +41,8 @@ the amount of nuclear energy and wind energy into the market until wanted levels
 this would affect equilibrium.
 
 ### Tackling Inflation
-Inflation could be tackled by reinvesting some of the profits that would've been divided socially to be used to increase the quality of an item's marginal 
-cost.
+Inflation could be tackled by reinvesting some of the profits that would've been divided socially to be used to increase the quality of an item via 
+marginal cost.
 
 ### Government Funding
 Taxes would be needed and/or a percentage of the social dividend to be taken.
@@ -48,4 +50,8 @@ Taxes would be needed and/or a percentage of the social dividend to be taken.
 ### Trading
 No monetary exchanges for items could happen when trading with other countries, so trading would be very traditionalistic.
 
+## How The Code Works
+
+
 ## Criticisms
+Major Criticisms against
