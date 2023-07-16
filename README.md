@@ -3,11 +3,23 @@
 
 [![](assets/Oskar_Lange_20-65.jpg)](https://en.wikipedia.org/wiki/Oskar_R._Lange "Oskar Lange")
 
-**Table of Contents**
+- [Proof And Concept Of The Lange Model](#proof-and-concept-of-the-lange-model)
+  * [What Is The Lange Model?](#what-is-the-lange-model-)
+  * [Context](#context)
+  * [Expaning Upon The Model](#expaning-upon-the-model)
+    + [Economic Monitoring](#economic-monitoring)
+    + [Supply](#supply)
+    + [Economic Plans](#economic-plans)
+    + [Tackling Inflation](#tackling-inflation)
+    + [Government Funding](#government-funding)
+    + [Trading](#trading)
+  * [How The Code Works](#how-the-code-works)
+    + [The Two-Day System](#the-two-day-system)
+    + [Data File](#data-file)
+  * [Criticisms](#criticisms)
+  * [THIS IS A PROOF OF CONCEPT](#this-is-a-proof-of-concept)
 
-[TOCM]
-
-[TOC]
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## What Is The Lange Model?
 > "The Lange model (or Lange–Lerner theorem) is a neoclassical economic model for a hypothetical socialist economy based on public ownership of the means of
