@@ -6,7 +6,7 @@
 - [Proof And Concept Of The Lange Model](#proof-and-concept-of-the-lange-model)
   * [What Is The Lange Model?](#what-is-the-lange-model-)
   * [Context](#context)
-  * [Expaning Upon The Model](#expaning-upon-the-model)
+  * [Expanding Upon The Model](#expanding-upon-the-model)
     + [Economic Monitoring](#economic-monitoring)
     + [Supply](#supply)
     + [Economic Plans](#economic-plans)
@@ -38,7 +38,7 @@ technology that can do the task of calculating simple equations repetiviely in a
 this process was first recommended by Oskar Lange in a piece published in 1965, the same year he died sadly. Although, he didn't recommend the entire 
 economy to be "decentralized" (in a way) and be automated entirely, but that computers be used as an instrument for economists to use to plan the economy.
 
-## Expaning Upon The Model
+## Expanding Upon The Model
 ### Economic Monitoring
 To expand upon the idea of using computers as tools for the economy, I looked at the famous socialist Chilean project from the early 70's called "Project 
 Cybersyn". Now, I believe that Project Cybersyn wouldn't have worked as apparently it was supposed to run a full-simulation of the Chilean economy and also 
