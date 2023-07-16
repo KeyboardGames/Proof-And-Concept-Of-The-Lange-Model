@@ -8,5 +8,4 @@
 > owns non-labor factors of production, and markets allocate final goods and consumer goods. The Lange model states that if all production is performed by a
 > public body such as the state, and there is a functioning price mechanism, this economy will be Pareto-efficient, like a hypothetical market economy
 > under perfect competition. Unlike models of capitalism, the Lange model is based on direct allocation, by directing enterprise managers to set price
-> equal to marginal cost in order to achieve Pareto efficiency."
- —[Wikipedia, Lange Model](https://en.wikipedia.org/wiki/Lange_model)
+> equal to marginal cost in order to achieve Pareto efficiency." —[Wikipedia, Lange Model](https://en.wikipedia.org/wiki/Lange_model)
