@@ -70,7 +70,7 @@ No monetary exchanges for items could happen when trading with other countries, 
 ## How The Code Works
 The main problem against the Lange model was the non-automated trial-and-error price adjustments, so my code just simply automates those price adjustments 
 needed. How it does this is by getting the data of the supply amount available, marginal cost of an item, and the price each day, and then using fuzzy 
-logic to determine if the price should increase, decrease, or stay if at an equilibrium (sort-of a fuzzy-logic dynamic pricing system). This code was 
+logic to determine if the price should increase, decrease, or stay, if at an equilibrium (sort-of a fuzzy-logic dynamic pricing system). This code was 
 tested on a system running Debian 11.
 
 ### The Two-Day System
@@ -81,7 +81,7 @@ How Data Should Be Retrieved:
 3. Get everydays' (except the very first day's) supply later
 
 ### Data File
-The data file is the input file for the code with an item's market data. The file formats for this data are .csv and .txt.
+The data file is the input file for the code with an item's market data. The file formats for this data that are accepted are .csv and .txt.
 
 ## Criticisms
 Major Criticisms against this system would be the efficiency of collecting data and using it within this system. For example, this system uses the Two-Day 
@@ -98,5 +98,4 @@ summary of important price changes, price info, marginal costs, and supply data 
 again, this is a proof of concept that the model could work.
 
 ### NOT YET COMPLETED
-I would like to change the code from C++ to R (the e
-conomists preferred programming language).
+I would like to change the code from C++ to R (the economist's preferred programming language).
