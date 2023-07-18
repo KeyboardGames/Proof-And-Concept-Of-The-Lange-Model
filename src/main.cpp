@@ -132,6 +132,8 @@ int main(){
         std::string priceIS=priceISO.str();
         int priceIL=priceIS.length();
         int limitI=std::pow(10,priceIL-1);
+        int divideLI=priceI/limitI;
+        int limitII=divideLI*limitI;
         int workA=2;
     if(supply1I==supply2I){
         std::cout<<"AT EQUILIBRIUM (or close enough)"<<std::endl;
@@ -139,28 +141,28 @@ int main(){
     }
     if(workA==2){
     if(supply2I<supply1I-supply1I/2){
-        priceSug=priceI+1.0*limitI;
+        priceSug=priceI+1.0*limitII;
     }
     if(supply2I>supply1I+supply1I/2){
-        priceSug=priceI-1.0*limitI;
+        priceSug=priceI-1.0*limitII;
     }	
     if(supply2I<supply1I-supply1I/4 && supply2I>supply1I-supply1I/2){
-        priceSug=priceI+0.5*limitI;
+        priceSug=priceI+0.5*limitII;
     }
     if(supply2I>supply1I+supply1I/4 && supply2I<supply1I+supply1I/2){
-        priceSug=priceI-0.5*limitI;
+        priceSug=priceI-0.5*limitII;
     }	
     if(supply2I<supply1I-supply1I/8 && supply2I>=supply1I-supply1I/4){
-        priceSug=priceI+0.25*limitI;
+        priceSug=priceI+0.25*limitII;
     }
     if(supply2I>supply1I+supply1I/8 && supply2I<=supply1I+supply1I/4){
-        priceSug=priceI-0.25*limitI;
+        priceSug=priceI-0.25*limitII;
     }	
     if(supply2I<supply1I && supply2I>=supply1I-supply1I/8){
-        priceSug=priceI+0.1125*limitI;
+        priceSug=priceI+0.1125*limitII;
     }
     if(supply2I>=supply1I && supply2I<=supply1I+supply1I/8){
-        priceSug=priceI-0.1125*limitI;
+        priceSug=priceI-0.1125*limitII;
     }	
     }
     double profitS=priceSug-marginalI;
