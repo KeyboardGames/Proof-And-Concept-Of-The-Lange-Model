@@ -43,7 +43,7 @@ economy to be "decentralized" (in a way) and be automated entirely, but that com
 ### Economic Monitoring
 To expand upon the idea of using computers as tools for the economy, I looked at the famous socialist Chilean project from the early 70's called "Project 
 Cybersyn". Now, I believe that Project Cybersyn wouldn't have worked as apparently it was supposed to run a full-simulation of the Chilean economy and also 
-it was the 70's in Chile. One thing I do like though about this project was how the economy would still be planned and not fully automated as there was 
+it was the 70's in Chile, that and simulating an economy is like simulating physics. One thing I do like though about this project was how the economy would still be planned and not fully automated as there was 
 still human input, as in human monitoring. To not have the economy be fully-automated and to not have the use of "economic-automation" be painfully slow, 
 we could use human monitoring of prices, suggested by the computers, to have the economy still be planned, and at least maintained by humans. Once, a review reading and possible changes to price-changes or price-info is concluded, prices are changed by the Central Planning Board and not the computers.
 
