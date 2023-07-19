@@ -54,7 +54,7 @@ rounded data there is, the better essentially. The USSR was able to do this, alt
 ### Economic Plans
 To launch economic plans within this system, two known routes can be taken. One is to use the framework of the market to 
 launch a plan (for example: having a plan to lower the amount of nuclear energy used and increase the amount of wind energy can be done by slowly adjusting 
-the amount of nuclear energy and wind energy into the market until wanted levels are seen). The second route would be to change prices manually, although 
+the amount of nuclear energy and wind energy in the market until wanted levels are seen). The second route would be to change prices manually, although 
 this would affect equilibrium.
 
 ### Tackling Inflation
