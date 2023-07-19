@@ -96,6 +96,3 @@ This entire thing is just a proof of concept at the end of the day, and the code
 simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a 
 summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed and monitored. I would just like to stress 
 again, this is a proof of concept that the model could work.
-
-### NOT YET COMPLETED
-I would like to change the code from C++ to R (the economist's preferred programming language).
