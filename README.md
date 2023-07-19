@@ -92,7 +92,7 @@ informal economies under socialism, a good movement for the people to be on-boar
 always the controlling the informal economy and making it as small as possible as there will always be an informal economy. The vague argument of this model still being unrealistic could also be said, I guess.
 
 ## THIS IS A PROOF OF CONCEPT
-This entire thing is just a proof of concept at the end of the day, and the code and and everything else I supply to this repository will all just be very 
+This entire thing is just a proof of concept at the end of the day, and the code and everything else I supply to this repository will all just be very 
 simple. For example, I am not going to be working on a system that tracks supplies, sends the data to a server to then run the code, and then makes a 
 summary of important price changes, price info, marginal costs, and supply data into a pdf file to be viewed and monitored. I would just like to stress 
 again, this is a proof of concept that the model could work.
