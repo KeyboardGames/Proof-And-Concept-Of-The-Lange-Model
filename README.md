@@ -10,7 +10,7 @@
     + [Economic Monitoring](#economic-monitoring)
     + [Supply](#supply)
     + [Economic Plans](#economic-plans)
-    + [Tackling Inflation](#tackling-inflation)
+    + [Competition](#competition)
     + [Government Funding](#government-funding)
     + [Trading](#trading)
   * [How The Code Works](#how-the-code-works)
