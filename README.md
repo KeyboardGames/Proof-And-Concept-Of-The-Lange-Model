@@ -57,9 +57,8 @@ launch a plan (for example: having a plan to lower the amount of nuclear energy 
 the amount of nuclear energy and wind energy in the market until wanted levels are seen). The second route would be to change prices manually, although 
 this would affect equilibrium.
 
-### Tackling Inflation
-Inflation could be tackled by reinvesting some of the profits that would've been divided socially to be used to increase the quality of an item via 
-marginal cost.
+### Competition
+How I view competition within a centrally-planned economy of Socialism is through "global markets". For example, a state-owned company from "Country A" wants to sell its products in "Country B". With this there would be competition between companies. This competition creates market user-feedback within the economy which in return helps quality-control and pricing.
 
 ### Government Funding
 Taxes would be needed and/or a percentage of the social dividend to be taken.
