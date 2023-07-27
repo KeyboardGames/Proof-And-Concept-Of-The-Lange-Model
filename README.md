@@ -35,7 +35,7 @@ Definetly read the Wikipedia on the Lange Model before advancing, and if you wan
 ## Context
 A problem of this model is the need to calculate gigantic quanitities of calculations, ableit simple calculations. This problem was argued at the time 
 (1930s) by prominent economist Friedrich Hayek against the Lange Model. A couple of years have passed since the 1930s although, with the introduction of 
-technology that can do the task of calculating simple equations repetiviely in a very short amount of time. This thought of using computers to carry-out 
+technology that can do the task of calculating simple equations repetirively in a very short amount of time. This thought of using computers to carry-out 
 this process was first recommended by Oskar Lange in a piece published in 1965, the same year he died sadly. Although, he didn't recommend the entire 
 economy to be "decentralized" (in a way) and be automated entirely, but that computers be used as an instrument for economists to use to plan the economy.
 
